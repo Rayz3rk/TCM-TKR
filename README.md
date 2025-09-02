@@ -1,7 +1,8 @@
 # TCM-TKR
-Traditional Chinese Medicine Terms, Knowledge and Records (TCM-TKR), which encompasses TCM terms, knowledge and records
+**Traditional Chinese Medicine Terms, Knowledge and Records (TCM-TKR), which encompasses TCM terms, knowledge and records**
 
 Traditional Chinese Medicine Terms, Knowledge and Records (TCM-TKR) is a comprehensive and systematic resource dedicated to preserving, organizing, and disseminating the rich heritage of Traditional Chinese Medicine (TCM). This project encompasses a vast spectrum of TCM-related content, serving as a bridge between ancient wisdom and modern understanding.​
+
 ---
 At its core, TCM-TKR includes an extensive collection of TCM terms — from fundamental concepts like "Qi" (vital energy), "Yin-Yang," and "Meridians" to specialized terminology related to herbal medicines, acupuncture points, and diagnostic methods. These terms are meticulously defined, cross-referenced, and contextualized to ensure clarity for both practitioners and enthusiasts, eliminating ambiguities that often arise from translations or regional variations.​
 
